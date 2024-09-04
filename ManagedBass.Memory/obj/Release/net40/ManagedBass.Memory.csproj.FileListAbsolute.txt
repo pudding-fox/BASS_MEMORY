@@ -1,0 +1,14 @@
+C:\personal\BASS_MEMORY\distribution\net40\x64\bass_memory.dll
+C:\personal\BASS_MEMORY\distribution\net40\x86\bass_memory.dll
+C:\personal\BASS_MEMORY\distribution\net40\x64\bass_memory_dsd.dll
+C:\personal\BASS_MEMORY\distribution\net40\x86\bass_memory_dsd.dll
+C:\personal\BASS_MEMORY\distribution\net40\ManagedBass.Memory.dll
+C:\personal\BASS_MEMORY\distribution\net40\ManagedBass.Memory.pdb
+C:\personal\BASS_MEMORY\ManagedBass.Memory\obj\Release\net40\ManagedBass.Memory.csproj.AssemblyReference.cache
+C:\personal\BASS_MEMORY\ManagedBass.Memory\obj\Release\net40\ManagedBass.Memory.GeneratedMSBuildEditorConfig.editorconfig
+C:\personal\BASS_MEMORY\ManagedBass.Memory\obj\Release\net40\ManagedBass.Memory.AssemblyInfoInputs.cache
+C:\personal\BASS_MEMORY\ManagedBass.Memory\obj\Release\net40\ManagedBass.Memory.AssemblyInfo.cs
+C:\personal\BASS_MEMORY\ManagedBass.Memory\obj\Release\net40\ManagedBass.Memory.csproj.CoreCompileInputs.cache
+C:\personal\BASS_MEMORY\ManagedBass.Memory\obj\Release\net40\ManagedBass.Memory.csproj.CopyComplete
+C:\personal\BASS_MEMORY\ManagedBass.Memory\obj\Release\net40\ManagedBass.Memory.dll
+C:\personal\BASS_MEMORY\ManagedBass.Memory\obj\Release\net40\ManagedBass.Memory.pdb

@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>ManagedBass.Memory</id>
+    <version>0.0.6</version>
+    <authors>ManagedBass.Memory</authors>
+    <license type="expression">MIT</license>
+    <licenseUrl>https://licenses.nuget.org/MIT</licenseUrl>
+    <description>Package Description</description>
+    <repository type="git" url="https://github.com/aidan-g/BASS_MEMORY.git" />
+    <dependencies>
+      <group targetFramework=".NETFramework4.0" />
+      <group targetFramework=".NETFramework4.6.1" />
+    </dependencies>
+  </metadata>
+  <files>
+    <file src="C:\personal\BASS_MEMORY\distribution\net40\ManagedBass.Memory.dll" target="lib\net40\ManagedBass.Memory.dll" />
+    <file src="C:\personal\BASS_MEMORY\distribution\net461\ManagedBass.Memory.dll" target="lib\net461\ManagedBass.Memory.dll" />
+    <file src="C:\personal\BASS_MEMORY\lib\x64\bass_memory.dll" target="build\x64\bass_memory.dll" />
+    <file src="C:\personal\BASS_MEMORY\lib\x86\bass_memory.dll" target="build\x86\bass_memory.dll" />
+    <file src="C:\personal\BASS_MEMORY\lib\x64\bass_memory_dsd.dll" target="build\x64\bass_memory_dsd.dll" />
+    <file src="C:\personal\BASS_MEMORY\lib\x86\bass_memory_dsd.dll" target="build\x86\bass_memory_dsd.dll" />
+    <file src="C:\personal\BASS_MEMORY\ManagedBass.Memory\ManagedBass.Memory.targets" target="build\ManagedBass.Memory.targets" />
+  </files>
+</package>

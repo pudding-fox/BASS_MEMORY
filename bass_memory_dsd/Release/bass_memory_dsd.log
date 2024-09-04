@@ -1,0 +1,13 @@
+﻿C:\personal\BASS_MEMORY\bass_memory_dsd\bass_memory_dsd.vcxproj(52,3): warning MSB4011: "C:\Program Files\Microsoft Visual Studio\2022\Professional\MSBuild\Microsoft\VC\v170\Microsoft.Cpp.Default.props" cannot be imported again. It was already imported at "C:\personal\BASS_MEMORY\Common.props (32,2)". This is most likely a build authoring error. This subsequent import will be ignored. 
+C:\Program Files\Microsoft Visual Studio\2022\Professional\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(520,5): warning MSB8004: Output Directory does not end with a trailing slash.  This build instance will add the slash as it is required to allow proper evaluation of the Output Directory.
+cl : command line  warning D9025: overriding '/sdl' with '/GS-'
+  cache.c
+  memory_stream.c
+  progress.c
+     Creating library ../lib/x86\bass_memory_dsd.lib and object ../lib/x86\bass_memory_dsd.exp
+  Generating code
+  10 of 34 functions (29.4%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  bass_memory_dsd.vcxproj -> C:\personal\BASS_MEMORY\lib\x86\bass_memory_dsd.dll

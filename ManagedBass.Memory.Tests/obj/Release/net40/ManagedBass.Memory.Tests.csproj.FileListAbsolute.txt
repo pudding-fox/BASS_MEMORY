@@ -1,0 +1,25 @@
+C:\personal\BASS_MEMORY\distribution\net40\x64\bass_memory.dll
+C:\personal\BASS_MEMORY\distribution\net40\x86\bass_memory.dll
+C:\personal\BASS_MEMORY\distribution\net40\x64\bass_memory_dsd.dll
+C:\personal\BASS_MEMORY\distribution\net40\x86\bass_memory_dsd.dll
+C:\personal\BASS_MEMORY\distribution\net40\NUnit3.TestAdapter.dll
+C:\personal\BASS_MEMORY\distribution\net40\NUnit3.TestAdapter.pdb
+C:\personal\BASS_MEMORY\distribution\net40\nunit.engine.dll
+C:\personal\BASS_MEMORY\distribution\net40\nunit.engine.api.dll
+C:\personal\BASS_MEMORY\distribution\net40\x64\bass.dll
+C:\personal\BASS_MEMORY\distribution\net40\x86\bass.dll
+C:\personal\BASS_MEMORY\distribution\net40\x64\bassdsd.dll
+C:\personal\BASS_MEMORY\distribution\net40\x86\bassdsd.dll
+C:\personal\BASS_MEMORY\distribution\net40\Media\01 Botanical Dimensions.m4a
+C:\personal\BASS_MEMORY\distribution\net40\Media\02 Outer Shpongolia.m4a
+C:\personal\BASS_MEMORY\distribution\net40\Media\01 Sample.dsf
+C:\personal\BASS_MEMORY\distribution\net40\ManagedBass.Memory.Tests.dll
+C:\personal\BASS_MEMORY\distribution\net40\ManagedBass.Memory.Tests.pdb
+C:\personal\BASS_MEMORY\ManagedBass.Memory.Tests\obj\Release\net40\ManagedBass.Memory.Tests.csproj.AssemblyReference.cache
+C:\personal\BASS_MEMORY\ManagedBass.Memory.Tests\obj\Release\net40\ManagedBass.Memory.Tests.GeneratedMSBuildEditorConfig.editorconfig
+C:\personal\BASS_MEMORY\ManagedBass.Memory.Tests\obj\Release\net40\ManagedBass.Memory.Tests.AssemblyInfoInputs.cache
+C:\personal\BASS_MEMORY\ManagedBass.Memory.Tests\obj\Release\net40\ManagedBass.Memory.Tests.AssemblyInfo.cs
+C:\personal\BASS_MEMORY\ManagedBass.Memory.Tests\obj\Release\net40\ManagedBass.Memory.Tests.csproj.CoreCompileInputs.cache
+C:\personal\BASS_MEMORY\ManagedBass.Memory.Tests\obj\Release\net40\ManagedBass.Memory.Tests.csproj.CopyComplete
+C:\personal\BASS_MEMORY\ManagedBass.Memory.Tests\obj\Release\net40\ManagedBass.Memory.Tests.dll
+C:\personal\BASS_MEMORY\ManagedBass.Memory.Tests\obj\Release\net40\ManagedBass.Memory.Tests.pdb

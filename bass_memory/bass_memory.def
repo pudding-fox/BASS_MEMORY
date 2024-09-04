@@ -1,0 +1,8 @@
+LIBRARY bass_memory
+VERSION 2.4
+EXPORTS
+BASSplugin
+BASS_MEMORY_StreamCreateFile
+BASS_MEMORY_StreamCreate
+BASS_MEMORY_Usage
+BASS_MEMORY_Progress

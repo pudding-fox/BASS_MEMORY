@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "DzXGAJlpVl3Xds8rKJM0xzi4I9kXG1Sp5uuKVoTT+RqaYwFYTVC+TRpWc2RHtO3N873+MsyBWba6MwkS+6JmQA==",
+  "success": true,
+  "projectFilePath": "C:\\personal\\BASS_MEMORY\\ManagedBass.Memory.Tests\\ManagedBass.Memory.Tests.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\AidanG\\.nuget\\packages\\nunit\\3.12.0\\nunit.3.12.0.nupkg.sha512",
+    "C:\\Users\\AidanG\\.nuget\\packages\\nunit3testadapter\\3.16.1\\nunit3testadapter.3.16.1.nupkg.sha512"
+  ],
+  "logs": []
+}
